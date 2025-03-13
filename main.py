@@ -1,0 +1,7 @@
+tuplex = ("Dominic", False, 3, 1, 2, 5)
+print (tuplex)
+tuplex = (5, 10, 15,"hello", 20,)
+tuplex = tuplex +(9,)
+print(tuplex)
+tuple1 = (6, 7, 5, 7, 5, 6, 56, 67, 78, 79, 5,)
+print(tuple1.count(5))
